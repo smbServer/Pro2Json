@@ -1,3 +1,4 @@
+**English** | [中文](https://github.com/smbServer/Pro2Json/README_cn.md)
 # Pro2Json
 ## A ProGuard to json is useless, is convenient for me to parse the confusion table, to be honest is lazy...
 
