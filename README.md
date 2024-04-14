@@ -24,18 +24,18 @@ implementation group: 'xyz.frish2021', name: 'Pro2Json', version: '1.0.0'
 
 ## How to use this dependencies
 
-## Step 1. -- Create two variables, one for the export file and one for the input file.
+### Step 1. -- Create two variables, one for the export file and one for the input file.
 ``` java
 File inFile = new File(System.getProperty("user.dir"), "mapping.txt"); // input ProGuard mapping
 File outFile = new File(System.getProperty("user.dir"), "mapping.json"); // output json mapping
 ```
 
-## Step 2. -- Create an instance
+### Step 2. -- Create an instance
 ```java
 Pro2Json pro2Json = new Pro2Json(inFile, outFile);
 ```
 
-## Step 3. -- Invoke the primary method
+### Step 3. -- Invoke the primary method
 ```java
 pro2Json.genJsonMapping(); // Invoke Method
 ```
