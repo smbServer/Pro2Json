@@ -1,4 +1,4 @@
-**中文** | [English](https://github.com/smbServer/Pro2Json/README.md)
+**中文** | [English](https://github.com/smbServer/Pro2Json?tab=readme-ov-file)
 # Pro2Json
 ## 一个 ProGuard 到 json 是没用的，方便我解析混乱表，说实话是懒惰......
 
