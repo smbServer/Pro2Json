@@ -4,6 +4,7 @@
 
 ## Main Developers:
 - Frish2021
+- Xiaoxijun233(Write Chinese documents)
 
 ## Development time:
 > 2024/4/14 1:26
